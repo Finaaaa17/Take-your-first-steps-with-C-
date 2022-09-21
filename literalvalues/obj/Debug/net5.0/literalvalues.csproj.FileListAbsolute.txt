@@ -1,0 +1,16 @@
+C:\Users\Fina Khairunnisa\Documents\c#\literalvalues\bin\Debug\net5.0\literalvalues.exe
+C:\Users\Fina Khairunnisa\Documents\c#\literalvalues\bin\Debug\net5.0\literalvalues.deps.json
+C:\Users\Fina Khairunnisa\Documents\c#\literalvalues\bin\Debug\net5.0\literalvalues.runtimeconfig.json
+C:\Users\Fina Khairunnisa\Documents\c#\literalvalues\bin\Debug\net5.0\literalvalues.runtimeconfig.dev.json
+C:\Users\Fina Khairunnisa\Documents\c#\literalvalues\bin\Debug\net5.0\literalvalues.dll
+C:\Users\Fina Khairunnisa\Documents\c#\literalvalues\bin\Debug\net5.0\ref\literalvalues.dll
+C:\Users\Fina Khairunnisa\Documents\c#\literalvalues\bin\Debug\net5.0\literalvalues.pdb
+C:\Users\Fina Khairunnisa\Documents\c#\literalvalues\obj\Debug\net5.0\literalvalues.csprojAssemblyReference.cache
+C:\Users\Fina Khairunnisa\Documents\c#\literalvalues\obj\Debug\net5.0\literalvalues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fina Khairunnisa\Documents\c#\literalvalues\obj\Debug\net5.0\literalvalues.AssemblyInfoInputs.cache
+C:\Users\Fina Khairunnisa\Documents\c#\literalvalues\obj\Debug\net5.0\literalvalues.AssemblyInfo.cs
+C:\Users\Fina Khairunnisa\Documents\c#\literalvalues\obj\Debug\net5.0\literalvalues.csproj.CoreCompileInputs.cache
+C:\Users\Fina Khairunnisa\Documents\c#\literalvalues\obj\Debug\net5.0\literalvalues.dll
+C:\Users\Fina Khairunnisa\Documents\c#\literalvalues\obj\Debug\net5.0\ref\literalvalues.dll
+C:\Users\Fina Khairunnisa\Documents\c#\literalvalues\obj\Debug\net5.0\literalvalues.pdb
+C:\Users\Fina Khairunnisa\Documents\c#\literalvalues\obj\Debug\net5.0\literalvalues.genruntimeconfig.cache

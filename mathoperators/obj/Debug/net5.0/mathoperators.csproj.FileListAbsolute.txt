@@ -1,0 +1,16 @@
+C:\Users\Fina Khairunnisa\Documents\c#\mathoperators\bin\Debug\net5.0\mathoperators.exe
+C:\Users\Fina Khairunnisa\Documents\c#\mathoperators\bin\Debug\net5.0\mathoperators.deps.json
+C:\Users\Fina Khairunnisa\Documents\c#\mathoperators\bin\Debug\net5.0\mathoperators.runtimeconfig.json
+C:\Users\Fina Khairunnisa\Documents\c#\mathoperators\bin\Debug\net5.0\mathoperators.runtimeconfig.dev.json
+C:\Users\Fina Khairunnisa\Documents\c#\mathoperators\bin\Debug\net5.0\mathoperators.dll
+C:\Users\Fina Khairunnisa\Documents\c#\mathoperators\bin\Debug\net5.0\ref\mathoperators.dll
+C:\Users\Fina Khairunnisa\Documents\c#\mathoperators\bin\Debug\net5.0\mathoperators.pdb
+C:\Users\Fina Khairunnisa\Documents\c#\mathoperators\obj\Debug\net5.0\mathoperators.csprojAssemblyReference.cache
+C:\Users\Fina Khairunnisa\Documents\c#\mathoperators\obj\Debug\net5.0\mathoperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fina Khairunnisa\Documents\c#\mathoperators\obj\Debug\net5.0\mathoperators.AssemblyInfoInputs.cache
+C:\Users\Fina Khairunnisa\Documents\c#\mathoperators\obj\Debug\net5.0\mathoperators.AssemblyInfo.cs
+C:\Users\Fina Khairunnisa\Documents\c#\mathoperators\obj\Debug\net5.0\mathoperators.csproj.CoreCompileInputs.cache
+C:\Users\Fina Khairunnisa\Documents\c#\mathoperators\obj\Debug\net5.0\mathoperators.dll
+C:\Users\Fina Khairunnisa\Documents\c#\mathoperators\obj\Debug\net5.0\ref\mathoperators.dll
+C:\Users\Fina Khairunnisa\Documents\c#\mathoperators\obj\Debug\net5.0\mathoperators.pdb
+C:\Users\Fina Khairunnisa\Documents\c#\mathoperators\obj\Debug\net5.0\mathoperators.genruntimeconfig.cache

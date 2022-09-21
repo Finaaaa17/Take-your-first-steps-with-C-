@@ -1,0 +1,16 @@
+C:\Users\Fina Khairunnisa\Documents\c#\stringconcatenation\bin\Debug\net5.0\stringconcatenation.exe
+C:\Users\Fina Khairunnisa\Documents\c#\stringconcatenation\bin\Debug\net5.0\stringconcatenation.deps.json
+C:\Users\Fina Khairunnisa\Documents\c#\stringconcatenation\bin\Debug\net5.0\stringconcatenation.runtimeconfig.json
+C:\Users\Fina Khairunnisa\Documents\c#\stringconcatenation\bin\Debug\net5.0\stringconcatenation.runtimeconfig.dev.json
+C:\Users\Fina Khairunnisa\Documents\c#\stringconcatenation\bin\Debug\net5.0\stringconcatenation.dll
+C:\Users\Fina Khairunnisa\Documents\c#\stringconcatenation\bin\Debug\net5.0\ref\stringconcatenation.dll
+C:\Users\Fina Khairunnisa\Documents\c#\stringconcatenation\bin\Debug\net5.0\stringconcatenation.pdb
+C:\Users\Fina Khairunnisa\Documents\c#\stringconcatenation\obj\Debug\net5.0\stringconcatenation.csprojAssemblyReference.cache
+C:\Users\Fina Khairunnisa\Documents\c#\stringconcatenation\obj\Debug\net5.0\stringconcatenation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fina Khairunnisa\Documents\c#\stringconcatenation\obj\Debug\net5.0\stringconcatenation.AssemblyInfoInputs.cache
+C:\Users\Fina Khairunnisa\Documents\c#\stringconcatenation\obj\Debug\net5.0\stringconcatenation.AssemblyInfo.cs
+C:\Users\Fina Khairunnisa\Documents\c#\stringconcatenation\obj\Debug\net5.0\stringconcatenation.csproj.CoreCompileInputs.cache
+C:\Users\Fina Khairunnisa\Documents\c#\stringconcatenation\obj\Debug\net5.0\stringconcatenation.dll
+C:\Users\Fina Khairunnisa\Documents\c#\stringconcatenation\obj\Debug\net5.0\ref\stringconcatenation.dll
+C:\Users\Fina Khairunnisa\Documents\c#\stringconcatenation\obj\Debug\net5.0\stringconcatenation.pdb
+C:\Users\Fina Khairunnisa\Documents\c#\stringconcatenation\obj\Debug\net5.0\stringconcatenation.genruntimeconfig.cache
