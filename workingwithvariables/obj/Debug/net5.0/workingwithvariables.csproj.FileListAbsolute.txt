@@ -1,0 +1,16 @@
+C:\Users\Fina Khairunnisa\Documents\c#\workingwithvariables\bin\Debug\net5.0\workingwithvariables.exe
+C:\Users\Fina Khairunnisa\Documents\c#\workingwithvariables\bin\Debug\net5.0\workingwithvariables.deps.json
+C:\Users\Fina Khairunnisa\Documents\c#\workingwithvariables\bin\Debug\net5.0\workingwithvariables.runtimeconfig.json
+C:\Users\Fina Khairunnisa\Documents\c#\workingwithvariables\bin\Debug\net5.0\workingwithvariables.runtimeconfig.dev.json
+C:\Users\Fina Khairunnisa\Documents\c#\workingwithvariables\bin\Debug\net5.0\workingwithvariables.dll
+C:\Users\Fina Khairunnisa\Documents\c#\workingwithvariables\bin\Debug\net5.0\ref\workingwithvariables.dll
+C:\Users\Fina Khairunnisa\Documents\c#\workingwithvariables\bin\Debug\net5.0\workingwithvariables.pdb
+C:\Users\Fina Khairunnisa\Documents\c#\workingwithvariables\obj\Debug\net5.0\workingwithvariables.csprojAssemblyReference.cache
+C:\Users\Fina Khairunnisa\Documents\c#\workingwithvariables\obj\Debug\net5.0\workingwithvariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fina Khairunnisa\Documents\c#\workingwithvariables\obj\Debug\net5.0\workingwithvariables.AssemblyInfoInputs.cache
+C:\Users\Fina Khairunnisa\Documents\c#\workingwithvariables\obj\Debug\net5.0\workingwithvariables.AssemblyInfo.cs
+C:\Users\Fina Khairunnisa\Documents\c#\workingwithvariables\obj\Debug\net5.0\workingwithvariables.csproj.CoreCompileInputs.cache
+C:\Users\Fina Khairunnisa\Documents\c#\workingwithvariables\obj\Debug\net5.0\workingwithvariables.dll
+C:\Users\Fina Khairunnisa\Documents\c#\workingwithvariables\obj\Debug\net5.0\ref\workingwithvariables.dll
+C:\Users\Fina Khairunnisa\Documents\c#\workingwithvariables\obj\Debug\net5.0\workingwithvariables.pdb
+C:\Users\Fina Khairunnisa\Documents\c#\workingwithvariables\obj\Debug\net5.0\workingwithvariables.genruntimeconfig.cache
