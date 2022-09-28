@@ -1,0 +1,16 @@
+C:\Users\Fina Khairunnisa\Documents\c#\addcomments\bin\Debug\net5.0\addcomments.exe
+C:\Users\Fina Khairunnisa\Documents\c#\addcomments\bin\Debug\net5.0\addcomments.deps.json
+C:\Users\Fina Khairunnisa\Documents\c#\addcomments\bin\Debug\net5.0\addcomments.runtimeconfig.json
+C:\Users\Fina Khairunnisa\Documents\c#\addcomments\bin\Debug\net5.0\addcomments.runtimeconfig.dev.json
+C:\Users\Fina Khairunnisa\Documents\c#\addcomments\bin\Debug\net5.0\addcomments.dll
+C:\Users\Fina Khairunnisa\Documents\c#\addcomments\bin\Debug\net5.0\ref\addcomments.dll
+C:\Users\Fina Khairunnisa\Documents\c#\addcomments\bin\Debug\net5.0\addcomments.pdb
+C:\Users\Fina Khairunnisa\Documents\c#\addcomments\obj\Debug\net5.0\addcomments.csprojAssemblyReference.cache
+C:\Users\Fina Khairunnisa\Documents\c#\addcomments\obj\Debug\net5.0\addcomments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fina Khairunnisa\Documents\c#\addcomments\obj\Debug\net5.0\addcomments.AssemblyInfoInputs.cache
+C:\Users\Fina Khairunnisa\Documents\c#\addcomments\obj\Debug\net5.0\addcomments.AssemblyInfo.cs
+C:\Users\Fina Khairunnisa\Documents\c#\addcomments\obj\Debug\net5.0\addcomments.csproj.CoreCompileInputs.cache
+C:\Users\Fina Khairunnisa\Documents\c#\addcomments\obj\Debug\net5.0\addcomments.dll
+C:\Users\Fina Khairunnisa\Documents\c#\addcomments\obj\Debug\net5.0\ref\addcomments.dll
+C:\Users\Fina Khairunnisa\Documents\c#\addcomments\obj\Debug\net5.0\addcomments.pdb
+C:\Users\Fina Khairunnisa\Documents\c#\addcomments\obj\Debug\net5.0\addcomments.genruntimeconfig.cache

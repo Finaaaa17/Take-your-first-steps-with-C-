@@ -1,0 +1,16 @@
+C:\Users\Fina Khairunnisa\Documents\c#\arraybasics\obj\Debug\net5.0\arraybasics.csprojAssemblyReference.cache
+C:\Users\Fina Khairunnisa\Documents\c#\arraybasics\obj\Debug\net5.0\arraybasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fina Khairunnisa\Documents\c#\arraybasics\obj\Debug\net5.0\arraybasics.AssemblyInfoInputs.cache
+C:\Users\Fina Khairunnisa\Documents\c#\arraybasics\obj\Debug\net5.0\arraybasics.AssemblyInfo.cs
+C:\Users\Fina Khairunnisa\Documents\c#\arraybasics\obj\Debug\net5.0\arraybasics.csproj.CoreCompileInputs.cache
+C:\Users\Fina Khairunnisa\Documents\c#\arraybasics\bin\Debug\net5.0\arraybasics.exe
+C:\Users\Fina Khairunnisa\Documents\c#\arraybasics\bin\Debug\net5.0\arraybasics.deps.json
+C:\Users\Fina Khairunnisa\Documents\c#\arraybasics\bin\Debug\net5.0\arraybasics.runtimeconfig.json
+C:\Users\Fina Khairunnisa\Documents\c#\arraybasics\bin\Debug\net5.0\arraybasics.runtimeconfig.dev.json
+C:\Users\Fina Khairunnisa\Documents\c#\arraybasics\bin\Debug\net5.0\arraybasics.dll
+C:\Users\Fina Khairunnisa\Documents\c#\arraybasics\bin\Debug\net5.0\ref\arraybasics.dll
+C:\Users\Fina Khairunnisa\Documents\c#\arraybasics\bin\Debug\net5.0\arraybasics.pdb
+C:\Users\Fina Khairunnisa\Documents\c#\arraybasics\obj\Debug\net5.0\arraybasics.dll
+C:\Users\Fina Khairunnisa\Documents\c#\arraybasics\obj\Debug\net5.0\ref\arraybasics.dll
+C:\Users\Fina Khairunnisa\Documents\c#\arraybasics\obj\Debug\net5.0\arraybasics.pdb
+C:\Users\Fina Khairunnisa\Documents\c#\arraybasics\obj\Debug\net5.0\arraybasics.genruntimeconfig.cache

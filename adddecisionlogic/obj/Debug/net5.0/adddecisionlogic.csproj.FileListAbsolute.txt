@@ -1,0 +1,16 @@
+C:\Users\Fina Khairunnisa\Documents\c#\adddecisionlogic\bin\Debug\net5.0\adddecisionlogic.exe
+C:\Users\Fina Khairunnisa\Documents\c#\adddecisionlogic\bin\Debug\net5.0\adddecisionlogic.deps.json
+C:\Users\Fina Khairunnisa\Documents\c#\adddecisionlogic\bin\Debug\net5.0\adddecisionlogic.runtimeconfig.json
+C:\Users\Fina Khairunnisa\Documents\c#\adddecisionlogic\bin\Debug\net5.0\adddecisionlogic.runtimeconfig.dev.json
+C:\Users\Fina Khairunnisa\Documents\c#\adddecisionlogic\bin\Debug\net5.0\adddecisionlogic.dll
+C:\Users\Fina Khairunnisa\Documents\c#\adddecisionlogic\bin\Debug\net5.0\ref\adddecisionlogic.dll
+C:\Users\Fina Khairunnisa\Documents\c#\adddecisionlogic\bin\Debug\net5.0\adddecisionlogic.pdb
+C:\Users\Fina Khairunnisa\Documents\c#\adddecisionlogic\obj\Debug\net5.0\adddecisionlogic.csprojAssemblyReference.cache
+C:\Users\Fina Khairunnisa\Documents\c#\adddecisionlogic\obj\Debug\net5.0\adddecisionlogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fina Khairunnisa\Documents\c#\adddecisionlogic\obj\Debug\net5.0\adddecisionlogic.AssemblyInfoInputs.cache
+C:\Users\Fina Khairunnisa\Documents\c#\adddecisionlogic\obj\Debug\net5.0\adddecisionlogic.AssemblyInfo.cs
+C:\Users\Fina Khairunnisa\Documents\c#\adddecisionlogic\obj\Debug\net5.0\adddecisionlogic.csproj.CoreCompileInputs.cache
+C:\Users\Fina Khairunnisa\Documents\c#\adddecisionlogic\obj\Debug\net5.0\adddecisionlogic.dll
+C:\Users\Fina Khairunnisa\Documents\c#\adddecisionlogic\obj\Debug\net5.0\ref\adddecisionlogic.dll
+C:\Users\Fina Khairunnisa\Documents\c#\adddecisionlogic\obj\Debug\net5.0\adddecisionlogic.pdb
+C:\Users\Fina Khairunnisa\Documents\c#\adddecisionlogic\obj\Debug\net5.0\adddecisionlogic.genruntimeconfig.cache
