@@ -1,0 +1,16 @@
+C:\Users\Fina Khairunnisa\Documents\c#\callmethodsfromthenet\bin\Debug\net5.0\callmethodsfromthenet.exe
+C:\Users\Fina Khairunnisa\Documents\c#\callmethodsfromthenet\bin\Debug\net5.0\callmethodsfromthenet.deps.json
+C:\Users\Fina Khairunnisa\Documents\c#\callmethodsfromthenet\bin\Debug\net5.0\callmethodsfromthenet.runtimeconfig.json
+C:\Users\Fina Khairunnisa\Documents\c#\callmethodsfromthenet\bin\Debug\net5.0\callmethodsfromthenet.runtimeconfig.dev.json
+C:\Users\Fina Khairunnisa\Documents\c#\callmethodsfromthenet\bin\Debug\net5.0\callmethodsfromthenet.dll
+C:\Users\Fina Khairunnisa\Documents\c#\callmethodsfromthenet\bin\Debug\net5.0\ref\callmethodsfromthenet.dll
+C:\Users\Fina Khairunnisa\Documents\c#\callmethodsfromthenet\bin\Debug\net5.0\callmethodsfromthenet.pdb
+C:\Users\Fina Khairunnisa\Documents\c#\callmethodsfromthenet\obj\Debug\net5.0\callmethodsfromthenet.csprojAssemblyReference.cache
+C:\Users\Fina Khairunnisa\Documents\c#\callmethodsfromthenet\obj\Debug\net5.0\callmethodsfromthenet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fina Khairunnisa\Documents\c#\callmethodsfromthenet\obj\Debug\net5.0\callmethodsfromthenet.AssemblyInfoInputs.cache
+C:\Users\Fina Khairunnisa\Documents\c#\callmethodsfromthenet\obj\Debug\net5.0\callmethodsfromthenet.AssemblyInfo.cs
+C:\Users\Fina Khairunnisa\Documents\c#\callmethodsfromthenet\obj\Debug\net5.0\callmethodsfromthenet.csproj.CoreCompileInputs.cache
+C:\Users\Fina Khairunnisa\Documents\c#\callmethodsfromthenet\obj\Debug\net5.0\callmethodsfromthenet.dll
+C:\Users\Fina Khairunnisa\Documents\c#\callmethodsfromthenet\obj\Debug\net5.0\ref\callmethodsfromthenet.dll
+C:\Users\Fina Khairunnisa\Documents\c#\callmethodsfromthenet\obj\Debug\net5.0\callmethodsfromthenet.pdb
+C:\Users\Fina Khairunnisa\Documents\c#\callmethodsfromthenet\obj\Debug\net5.0\callmethodsfromthenet.genruntimeconfig.cache
